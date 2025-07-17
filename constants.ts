@@ -70,6 +70,12 @@ export const PROJECTS: Project[] = [
     githubLink: "https://github.com/KrishnaSagar-P" // Placeholder link
   },
   {
+    title: "Pet-Pal Advisor",
+    description: "An AI-powered web application to help you find your perfect pet companion based on your lifestyle and preferences. Answer a few questions and get personalized recommendations for pet classes and specific breeds.",
+    tools: ["React", "AI", "Web App", "Recommendation System"],
+    liveLink: "https://pet-pal-advisor-427261521454.us-west1.run.app/"
+  },
+  {
     title: "Smart Assistant Chrome Extension",
     description: "A browser extension leveraging the Chrome API to scrape data from LinkedIn, PubMed, and Amazon for content summarization.",
     tools: ["Chrome API", "OpenAI GPT-4", "FastAPI"],
